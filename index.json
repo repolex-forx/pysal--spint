@@ -1,0 +1,11 @@
+{
+  "org": "pysal",
+  "repo": "spint",
+  "versions": [
+    {
+      "commit": "d5f88ceda2c63b90f9b50118e4a4750380922c9c",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:10:16.589437+00:00"
+    }
+  ]
+}
